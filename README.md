@@ -25,7 +25,8 @@ Puedes ver todas mis certificaciones verificadas en mi perfil oficial de Credly:
 
 ### Certificaciones destacadas
 
-- <a href="https://www.credly.com/badges/4d019bdf-5d02-44b3-90c0-1e4500c992f2/public_url"><img src="https://images.credly.com/images/1f2b8a6b-9199-43c9-b8a9-5e3a3f56b5cc/image.png" width="36px"></a>  
+
+- <a href="https://www.credly.com/badges/4d019bdf-5d02-44b3-90c0-1e4500c992f2/public_url"><img src="https://images.credly.com/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" width="36px"></a>  
   AWS Certified Advanced Networking – Specialty  
 
 - <a href="https://www.credly.com/badges/e5cae56f-476d-4194-aefe-a41130fc3605/public_url"><img src="https://images.credly.com/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="36px"></a>  
